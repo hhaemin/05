@@ -11,7 +11,7 @@ ArrayEx7_배열의 요소의 순서를 반복해서 바꾸기
 ArrayEx8_배열의 요소의 순서를 반복해서 바꾸기   
 ArrayEx9_연속 또는 불연속적인 값들로 배열을 초기화   
 ArrayEx10_오름차순,내림차순으로 배열을 정렬 (버블 정렬)   
-ArrayEx11_배열에 어떤 값이 몇 개 저장되어 있는지 세어서 보여준다.
+ArrayEx11_배열에 어떤 값이 몇 개 저장되어 있는지 세어서 보여준다.   
 ArrayEx12_String 배열 출력   
 ArrayEx13_16진수를 2진수로 변환   
 ArrayEx14_String클래스의 charAt(int index)을 사용하는 방법을 보여주는 예제   
